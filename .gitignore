@@ -28,3 +28,6 @@ key.properties
 releases/
 Makefile
 android/.kotlin/
+
+#asdf
+*.txt
