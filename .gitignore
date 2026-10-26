@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Flutter / Dart build artifacts
+build/
+.dart_tool/
+.flutter-plugins*
+
+# Android / Gradle
+.gradle/
+local.properties
+android/app/.cxx/
+*.iml
+.idea/
+
+# IDE
+.vscode/
+*.swp
+
+# Keystores and secrets
+*.keystore
+key.properties
+
+# Large/signed artifacts (kept on disk, never in git)
+*.apk
+releases/
+Makefile
+android/.kotlin/
